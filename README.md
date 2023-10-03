@@ -1,88 +1,88 @@
 # Graphlan, Inc. Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to Graphlan Browser Extension, and Graphlan, Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Graphlan, Inc. include <https://www.graphlan.com/> and Graphlan. The Graphlan application is a browser extension application. By using the Graphlan application, you consent to the data practices described in this statement.
+Welcome to **www.graphlan.com** (the "**Site**”), a website operated by Graphlan, Inc. ("**Graphlan**”, "**Graphlan**”, "**we**”, "**us**”, or "**our**”).
 
-## Collection of your Personal Information
+We know you are concerned about your privacy, so we developed this privacy policy ("**Privacy Policy**”) to explain how we collect, use, and disclose information relating to our users’ interactions with our products and services, whether users are simply visiting our Site or using any of our related products and services ("**Services**”).
 
-In order to better provide you with products and services offered, Graphlan may collect personally identifiable information, such as your:
+IF YOU ARE A NON-U.S. USER OF THE SITE OR SERVICES, BY VISITING THE SITE, USING THE SERVICES AND/OR PROVIDING US WITH INFORMATION, YOU ACKNOWLEDGE AND AGREE THAT YOUR PERSONAL INFORMATION MAY BE PROCESSED FOR THE PURPOSES IDENTIFIED IN THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS IN OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. BY VISITING THE SITE, USING THE SERVICES AND/OR PROVIDING ANY PERSONAL INFORMATION, YOU ARE CONSENTING TO THE TRANSFER OF DATA FROM YOUR COUNTRY TO A COUNTRY THAT MAY HAVE LESS STRINGENT LAWS, AND THE PROCESSING OF YOUR PERSONAL INFORMATION IN CONFORMANCE WITH THIS POLICY.
 
-- First and Last Name
-- E-mail Address
-- Phone Number
-- Employer
-- Job Title
+The term "**Personal Information**,” as used in this Privacy Policy, means contact information (e.g., name, address, email address, or telephone number) and any other non-public information that is used or intended to be used to personally identify an individual. The term "**Anonymous Information**,” as used in this Privacy Policy, means information that is neither used nor intended to be used to personally identify an individual.
 
-If you purchase Graphlan's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction.
+## How We Handle Information About Children
 
-We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services. These may include: (a) registering for an account; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
+The Site and Services are not directed to children and children are not eligible to use our Site or Services. Protecting the privacy of children is very important to us. We do not collect or maintain Personal Information from people we actually know are under 13 years of age, and no part of our Site or Services is designed to attract people under 13 years of age. When the Site or Services collect age information, and users identify themselves as under 13, we will take steps to remove that user’s Personal Information from our databases and to prevent the user from utilizing the Site or Services.
 
-## Use of your Personal Information
+## How We Collect Information
 
-Graphlan collects and uses your personal information to operate and deliver the services you have requested.
+### Personal Information
 
-Graphlan may also use your personally identifiable information to inform you of other products or services available from Graphlan and its affiliates.
+In general, the Personal Information we gather enables us to provide the Site and Services to you. We collect Personal Information that you submit to us voluntarily when you register with us or when you use the Site or Services. We also collect Personal Information from any third party who may submit such Personal Information to us (e.g., a user who provides us with your Personal Information when registering or inviting multiple individuals to use the Services). To create an "**Account**” with a user name, we require certain Personal Information, including a name and email address. In order for a third party to create an Account on your behalf, we may require your Personal Information so that you may have access to certain features of the Site or Services. Any third party registering on your behalf is responsible for obtaining any and all necessary consents from you prior to submitting such Personal Information. All payments on the Site are processed by our service providers who collect your credit card information directly, and we will not have access to or see your credit card information as part of such transaction. You can choose not to provide us with certain information, but this may limit the features of the Site or Services you are able to use.
 
-## Sharing Information with Third Parties
+In order for us to provide access to certain features or functions of the Services, we may require users to access the Services through a third-party platform ("**Third-Party Platform**”), using users’ existing account and log-in credentials on such Third-Party Platform. If you elect to proceed after receiving a prompt from us to enter your Third-Party Platform credentials, you are granting us and our Services access to your information on such Third-Party Platform. Further, by accessing, using, or interacting with the Services through a Third-Party Platform (whether or not you are using your account for such Third-Party Platform), you should also refer to that Third-Party Platform’s terms of use, as you will be subject to those terms of use as well. We receive and use information uploaded, posted, provided, communicated, or otherwise made available from the Third-Party Platform to make it easier for you to create an account with us and to offer and improve the Site and Services. The information that we collect from a Third-Party Platform account through which you access, use or interact with the Services, may depend on the privacy settings for that Third-Party Platform, so please consult the Third Party-Platform’s privacy and data practices.
 
-Graphlan does not sell, rent or lease its customer lists to third parties.
+When you send an email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 
-Graphlan may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Graphlan, and they are required to maintain the confidentiality of your information.
+### Anonymous Information
 
-Graphlan may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Graphlan or the site; (b) protect and defend the rights or property of Graphlan; and/or (c) act under exigent circumstances to protect the personal safety of users of Graphlan, or the public.
+**_Information Collected by Our Servers._** Our servers (which may be hosted by a third-party service provider) collect information from you, including your browser type, operating system, Internet Protocol ("**IP**”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, clickstream data, and a date/time stamp for your visit.
 
-## Right to Deletion
+**_Cookies._** Like many online services, we use cookies to collect information. Cookies are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience through our Site and/or Services. This type of information is collected to make the Site and/or Services more useful to you and to tailor the experience with us to meet your special interests and needs. If you decide at any time that you no longer wish to accept cookies from our Site and/or Services for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser’s technical information. If you do not accept cookies, however, you may not be able to use all portions of the Site and/or Services.
 
-Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
+**_Pixel Tags._** In addition, we use pixel tags (also referred to as clear gifs, web beacons, or web bugs). Pixel tags are tiny graphic images with a unique identifier, similar in function to cookies, which are used to track online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, pixel tags are embedded invisibly in web pages. Pixel tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to help us send messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user.
 
-- Delete your personal information from our records; and
-- Direct any service providers to delete your personal information from their records.
+**_Collection of Information by Advertisers._** We may use third parties to serve ads on the Site and/or Services. Certain third parties may automatically collect information about your visits to the Site and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, e-mail address or telephone number). They do this by using cookies or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site, Services and the other sites tracked by these third parties. This Privacy Policy does not apply to, and we are not responsible for, cookies or pixel tags in third-party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [**http://www.aboutads.info/choices**](http://www.aboutads.info/choices).
 
-Please note that we may not be able to comply with requests to delete your personal information if it is necessary to:
+**_Disclosure – Third-Party Cookies._** We use third-party services such as Google Analytics to help analyze how users use the Site and/or Services. These services use cookies to collect information such as how often users visit the Site and/or Services, what pages they visit, and what other sites they used prior to coming to the Site and/or using the Services. We use the information we get from these service providers to improve our Site and/or Services. They generally collect only the IP address assigned to you on the date you visit the Site and/or use the Services, rather than your name or other personally identifying information. We do not combine this information with your Personal Information. The service provider’s ability to use and share information it collects is restricted by its applicable terms and privacy policy.
 
-- Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
-- Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
-- Debug to identify and repair errors that impair existing intended functionality;
-- Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
-- Comply with the California Electronic Communications Privacy Act;
-- Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
-- Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
-- Comply with an existing legal obligation; or
-- Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+## How We Use Information
 
-## Children Under Thirteen
+### Personal Information
 
-Graphlan does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this application.
+We will use your Personal Information to:
 
-## Disconnecting your Graphlan Account from Third Party Websites
+*   Administer your Account;
+*   Process your payments;
+*   Provide you with the Site, the Services, and customer support;
+*   Tailor the features, performance and support of the Site and/or Services to you;
+*   Market products and services to you that we believe may be of interest to you;
+*   Respond to your requests, resolve disputes and/or troubleshoot problems;
+*   Improve the quality of the Site and the Services; and
+*   Communicate with you about the Site and the Services.
 
-You will be able to connect your Graphlan account to third party accounts. BY CONNECTING YOUR GRAPHLAN ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THIS FEATURE. You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their "My Account" page.
+We may also use your Personal Information to create Anonymous Information records by excluding information that makes the information personally identifiable to you.
 
-## E-mail Communications
+We will communicate with you primarily in the form of emails. You can opt out of receiving certain communications from the Site and/or Services by clicking the "Unsubscribe” link at the bottom of each email or emailing us at contact@graphlan.com. Please note that even if you unsubscribe or opt-out, we may still send you Site and Service related communications (e.g., emails related to your reservations or comments).
 
-From time to time, Graphlan may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from Graphlan or click on a link therein.
+### Anonymous Information
 
-If you would like to stop receiving marketing or promotional communications via email from Graphlan, you may opt out of such communications by clicking on the UNSUBSCRIBE link.
+We reserve the right to use Anonymous Information for any purpose.
 
-## External Data Storage Sites
+## How We Disclose Information
 
-We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+### Personal Information
 
-## Changes to this Statement
+We may disclose certain Personal Information:
 
-Graphlan reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our application, and/or by updating any privacy information. Your continued use of the application and/or Services available after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+* To third-party vendors who help us provide the Site or Services to you, including vendors that process payments for us and our subcontractors;
+* To third parties to which you ask us to send or provide Personal Information, including as described above;
+* In connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Information collected by us and will assume our rights and obligations regarding your Personal Information as described in this Privacy Policy; or
+* If we believe in good faith that such disclosure is necessary to (i) resolve disputes, investigate problems, or enforce our Terms of Use Agreement, or any other agreement between us; (ii) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you hereby authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (iii) protect and defend our rights or property or the rights and property of you or third parties.
 
-## Contact Information
+### Anonymous Information
 
-Graphlan welcomes your questions or comments regarding this Statement of Privacy. If you believe that Graphlan has not adhered to this Statement, please contact Graphlan at:
+We reserve the right to disclose Anonymous Information publicly without restriction, including to third-party vendors who may help us enhance or provide the Site and/or Services or to third parties.
 
-Graphlan, Inc.
+## Information Disclosed to Third Parties
 
-838 WALKER ROAD SUITE 21-2
+This Privacy Policy addresses our use and disclosure of information we collect relating to our users’ interactions with our Site and Services. If you disclose information to others, including payment processors, different rules may apply to their use or disclosure of the information you disclose to them. The use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.
 
-DOVER, Delaware 19904
+The Site and/or Services may contain links to other websites and/or services that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed via such other websites and/or services. When you click on such a link, you will leave our Site and/or Services and go to another site or service. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site and/or Services may also contain links to other websites or services controlled by us but that operate under different privacy policies. Please review the privacy policy of any new website you visit or service you use.
 
-Email Address: <privacy@graphlan.com>
+## Updating and Controlling Your Information
 
-Telephone number: 888-716-7274
+If you have an Account with us, you may update certain of your Personal Information on our Site. You may also email us at **contact@graphlan.com**. You may request that we delete your Personal Information, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives and we may also retain Personal Information about your use of our Site and/or Services. Once we disclose some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of any such information by the third parties to which we have made those disclosures.
 
-Effective as of September 14, 2023
+## Changes to this Privacy Policy
+
+This Privacy Policy is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Policy on this page. If we make any material changes to it, we will also send you notice to the last email address you have provided to us. Continued use of our Site or Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+
